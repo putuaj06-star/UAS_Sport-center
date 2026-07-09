@@ -59,7 +59,6 @@ if (isset($_POST["simpan"])) {
         <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
             <a href="index.html" class="logo d-flex align-items-center me-auto">
-                <!-- Uncomment the line below if you also wish to use an image logo -->
                 <img src="assets/img/logo.png" alt="">
             </a>
 
@@ -218,7 +217,7 @@ if (isset($_POST["simpan"])) {
         <i class="bi bi-envelope flex-shrink-0"></i>
         <div>
           <h3>Email Us</h3>
-          <p>info@example.com</p>
+          <p>info@contoh.com</p>
         </div>
       </div><!-- End Info Item -->
 
@@ -297,7 +296,7 @@ if (isset($_POST["simpan"])) {
                 <div class="col-6 col-lg-4 col-md-6 footer-links">
                     <h4>Syarat & Ketentuan</h4>
                     <ul>
-                        <li><a href="#">Lihat Syarat & Ketentuan</a></li>
+                        <li><a href="#">Lihat Syarat & ketentuan</a></li>
                     </ul>
                 </div>
 
