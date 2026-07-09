@@ -296,7 +296,7 @@ $profil = query("SELECT * FROM user_212279 WHERE 212279_id_user = '$id_user'")[0
                     </div>
                   </div>
                 </div>
-                <!-- End Modal Detail -->
+                <!-- End Modal Detail sekali -->
 
                 <!-- Modal Hapus -->
                 <div class="modal fade" id="hapusModal<?= $row["212279_id_sewa"]; ?>" tabindex="-1" aria-labelledby="profilModalLabel" aria-hidden="true">
