@@ -248,28 +248,28 @@ if (isset($_POST["simpan"])) {
           <div class="col-6 col-lg-3 col-md-6">
             <div class="shadow rounded stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="1232" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Pelanggan</p>
+              <p>PELANGGAN</p>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-6 col-lg-3 col-md-6">
             <div class="shadow rounded stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="64" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Lapangan</p>
+              <p>LAPANGAN</p>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-6 col-lg-3 col-md-6">
             <div class="shadow rounded stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="42" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Tournament</p>
+              <p>TOURNAMENT</p>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-6 col-lg-3 col-md-6">
             <div class="shadow rounded stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="24" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Membership</p>
+              <p>MEMBERSHIP</p>
             </div>
           </div><!-- End Stats Item -->
 
